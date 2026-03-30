@@ -1,3 +1,10 @@
+
+@media screen and (max-width: 600px) {
+
+}
+@media screen and (min-width: 601px) {
+}
+@media screen and (min-width: 993px) {
 .headerp1{
     border-radius: 1vw;
     border-style: ridge;
@@ -12,8 +19,13 @@ h1{font-weight: bold;
 color: black;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 .split_25{
-    width: 25%;
+    width: 24%;
     float: left;
     border-radius: 1vw;
     border-style: ridge;
+    margin :2px;
+    padding: 2px;
+}
+.gambar1{width:100%; border-radius: 1vw;
+    border-style: ridge}
 }
