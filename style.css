@@ -11,3 +11,9 @@ h1{font-weight: bold;
     font-size: 250%;
 color: black;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.split_25{
+    width: 25%;
+    float: left;
+    border-radius: 1vw;
+    border-style: ridge;
+}
